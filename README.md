@@ -1,4 +1,4 @@
-# Laravel Training Management System
+# Content Management System
 
 ## Deskripsi Proyek
 
